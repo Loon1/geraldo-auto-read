@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Leitura Automática de Pedidos - Geraldo <aiqfome>
-// @version      2.2
+// @version      2.2.1V-ATT
 // @description  Este userscript adiciona a opção de leitura automática dos pedidos para os restaurantes no Geraldo <aiqfome>.
 // @author       Renan D.
 // @supportURL   https://gist.github.com/renandecarlo/3b83a47bccda033e73e3f76f2300ae8c/
